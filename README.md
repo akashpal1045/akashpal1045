@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Akash Pal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python**
 
